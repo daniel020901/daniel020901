@@ -1,4 +1,4 @@
-<h1 style="align-items:center;">This is my profile</h1>
+<h1 align="center">This is my profile</h1>
 <div align="center">
   <img height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--e3MSa2AC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/39b93b1vq2xalsa0uu2s.gif"  />
 </div>
